@@ -1,4 +1,4 @@
-package com.chen;
+package main.java.com;
 
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.*;
